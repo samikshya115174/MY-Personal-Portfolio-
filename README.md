@@ -7,6 +7,16 @@ Welcome to my personal portfolio website! This project showcases my introduction
 Hello! I am **Samikshya Gaire**, a student interested in technology, web development, and digital creativity. I enjoy learning new programming concepts and developing practical projects to improve my technical skills.
 
 I am currently exploring web development and learning different technologies to build useful and creative websites and applications.
+## 🌐 Website Preview
+
+Here is a preview of my personal portfolio website:
+
+<img width="962" height="768" alt="Screenshot 2026-09-25 at 13 31 20" src="https://github.com/user-attachments/assets/772743a5-0c7a-4880-ae6f-87893242c9fe" />
+
+
+
+
+
 
 ## 🛠️ Technologies Used
 
